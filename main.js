@@ -1,0 +1,7 @@
+alert("Hello👋")
+alert("i have something to tell you😣")
+alert("i like you❤")
+alert("i know that i don't have a chance on you😥")
+alert("i just want you to know that i like you😅")
+alert("😅sorry im not good at english😓")
+alert("thats all Thank you😅")
